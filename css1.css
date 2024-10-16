@@ -1,0 +1,19 @@
+label{ 
+    color: blueviolet;
+    font-size:30px;
+    background-color: cornsilk;
+}
+
+fieldset{
+    color:blue;
+    font-size:20px;
+    background-color: bisque;
+}
+
+body{
+    background-color:rgb(184, 156, 221);
+}
+
+name{
+    color:cadetblue;
+}
